@@ -60,6 +60,12 @@ This makes the app useful for **students, beginners, and rapid data exploration*
 
 ---
 
+## 🔗 Live Demo
+
+[_link_](https://data-cleaning-uzairarain.streamlit.app/)
+
+---
+
 ## 📁 Installation (For Local Use)
 
 ```bash
